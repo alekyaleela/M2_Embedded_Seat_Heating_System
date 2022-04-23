@@ -11,3 +11,5 @@
 [![Build_CI - Linux](https://github.com/alekyaleela/M2_Embedded_Seat_Heating_System/actions/workflows/Linux.yml/badge.svg)](https://github.com/alekyaleela/M2_Embedded_Seat_Heating_System/actions/workflows/Linux.yml)
 
 [![Bulid CI - windows](https://github.com/alekyaleela/M2_Embedded_Seat_Heating_System/actions/workflows/Windows.yml/badge.svg)](https://github.com/alekyaleela/M2_Embedded_Seat_Heating_System/actions/workflows/Windows.yml)
+
+[![Git Inspector](https://github.com/alekyaleela/M2_Embedded_Seat_Heating_System/actions/workflows/GitInspector.yml/badge.svg)](https://github.com/alekyaleela/M2_Embedded_Seat_Heating_System/actions/workflows/GitInspector.yml)
